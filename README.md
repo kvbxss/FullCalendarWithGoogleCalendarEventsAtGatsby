@@ -92,10 +92,10 @@ const BookingCalendar = () => {
                 right: "dayGridMonth,timeGridWeek,timeGridDay,listWeek"
               }}
               plugins={[dayGridPlugin, timeGridPlugin, interactionPlugin, googleCalendarPlugin]}
-              googleCalendarApiKey='AIzaSyBmDDMbae6MzPOuSI5QimNsTsqtoqNv8SQ'
+              googleCalendarApiKey=' '
               eventSources={[
                 {
-                        googleCalendarId:"suh24jba9jmae5npn329rcd8bk@group.calendar.google.com"
+                        googleCalendarId:" "
                       },
                 ]}
               // eventClick={(e)=>{
